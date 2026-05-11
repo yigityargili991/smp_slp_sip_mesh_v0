@@ -11,9 +11,9 @@
         "id": "label",
         "type": "label",
         "values": [
-          "sip_bbox_segments_synapse_mesh",
-          "slp_bbox_segments_synapse_mesh",
-          "smp_bbox_segments_synapse_mesh"
+          "sip_core_synapse_cloud",
+          "slp_core_synapse_cloud",
+          "smp_core_synapse_cloud"
         ]
       }
     ]
