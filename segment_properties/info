@@ -1,0 +1,21 @@
+{
+  "@type": "neuroglancer_segment_properties",
+  "inline": {
+    "ids": [
+      "1",
+      "2",
+      "3"
+    ],
+    "properties": [
+      {
+        "id": "label",
+        "type": "label",
+        "values": [
+          "sip_bbox_segments_synapse_mesh",
+          "slp_bbox_segments_synapse_mesh",
+          "smp_bbox_segments_synapse_mesh"
+        ]
+      }
+    ]
+  }
+}
