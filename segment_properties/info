@@ -2,18 +2,14 @@
   "@type": "neuroglancer_segment_properties",
   "inline": {
     "ids": [
-      "1",
-      "2",
-      "3"
+      "1"
     ],
     "properties": [
       {
         "id": "label",
         "type": "label",
         "values": [
-          "sip_core_synapse_cloud",
-          "slp_core_synapse_cloud",
-          "smp_core_synapse_cloud"
+          "superior_protocerebrum_synapse_cloud"
         ]
       }
     ]
